@@ -1,0 +1,4 @@
+name: InvulnerableTempFix
+version: '1.0-SNAPSHOT'
+main: gg.quartzdev.invulnerableTempFix.InvulnerableTempFix
+api-version: '1.21'
